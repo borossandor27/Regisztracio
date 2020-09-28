@@ -48,5 +48,6 @@ namespace Regisztracio
                 listBox_Adatok.Items.Add("hobby: Kerékpározás");
             }
         }
+
     }
 }
